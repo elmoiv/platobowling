@@ -1,7 +1,7 @@
 **<p align="center">Plato Bowling Bot</p>**
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/elmoiv/platobowling/blob/master/icon.png">
+  <img width="200" height="200" src="https://github.com/elmoiv/platobowlingbot/blob/master/icon.png">
 </p>
 <p align="center">
 Plato bot that wins bowling 99% all the time.
@@ -41,6 +41,6 @@ autopy
   ```
 
 ## Contributing
-Please contribute! If you want to fix a bug, suggest improvements, or add new features to the project, just [open an issue](https://github.com/elmoiv/platobowling/issues) or send me a pull request.
+Please contribute! If you want to fix a bug, suggest improvements, or add new features to the project, just [open an issue](https://github.com/elmoiv/platobowlingbot/issues) or send me a pull request.
 
 ### If you really love the game, you should play clean 🙂
